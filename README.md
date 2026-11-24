@@ -15,10 +15,12 @@ Python pour le traitement des données — Redha Moulla.
 
 Versions Analyse Churn et German Credit limitées à la préparation, aux statistiques descriptives et à la visualisation. Les sections de modélisation et leurs sorties ont été retirées ; les autres cellules et sorties Drive sont conservées.
 
-## Utilisation
+## Utilisation avec VS Code
 
-Ouvrir les notebooks dans Jupyter ou Google Colab.
+1. Télécharger ou cloner le dépôt, puis ouvrir son dossier dans VS Code.
+2. Ouvrir le notebook du TP (`.ipynb`) et sélectionner le noyau Python utilisé pour la formation.
+3. Exécuter les cellules dans l’ordre, depuis le début du notebook.
 
-Dans Colab, importer le notebook puis le CSV correspondant. Les deux CSV sont à côté des notebooks pour conserver les chemins relatifs.
+Les extensions Python et Jupyter de VS Code permettent de travailler avec les notebooks.
 
-Le TP SeLoger utilise `selogerdata.csv` et les trois CSV du dossier `Seloger/`, à conserver à côté du notebook avec cette arborescence.
+Conserver les fichiers CSV et les notebooks dans leur arborescence : les TP Churn et German Credit utilisent respectivement `customer_churn.csv` et `german_credit_data.csv`, placés à côté des notebooks. Le TP SeLoger utilise `selogerdata.csv` ainsi que les trois CSV du sous-dossier `Seloger/`.
