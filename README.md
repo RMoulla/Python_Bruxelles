@@ -17,12 +17,7 @@ Versions Analyse Churn et German Credit limitées à la préparation, aux statis
 
 ## Utilisation
 
-Python 3.10 ou plus récent. Créer un environnement virtuel, puis :
-
-```sh
-pip install -r requirements.txt
-jupyter lab
-```
+Ouvrir les notebooks dans Jupyter ou Google Colab.
 
 Dans Colab, importer le notebook puis le CSV correspondant. Les deux CSV sont à côté des notebooks pour conserver les chemins relatifs.
 
