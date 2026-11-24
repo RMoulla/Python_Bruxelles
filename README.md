@@ -4,7 +4,7 @@ Python pour le traitement des données — Redha Moulla.
 
 ## Support
 
-[Support PDF (128 pages)](PYK_Bruxelles_9_et_16_novembre_2026.pdf)
+[Support PDF (98 pages)](PYK_Bruxelles_9_et_16_novembre_2026.pdf)
 
 ## TP
 
